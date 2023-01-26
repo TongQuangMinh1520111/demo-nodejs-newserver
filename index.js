@@ -6,5 +6,5 @@ app.get('/', function (req, res) {
 });
 const port = process.env.PORT || 3000;
 var server = app.listen(port, function () {
-  console.log("Ung dung Node.js dang hoat dong tai dia chi: http://%s:%s",)
+  console.log("Ung dung Node.js dang hoat dong tai dia chi,)
 });
